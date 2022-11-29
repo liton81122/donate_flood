@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: lavender;
+}
+.banner-1{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.heading-1{
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    padding: 150px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+.donte-now{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 5px;
+}
+.donate-today{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.taka{
+    display: flex;
+    width: 700px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.border{
+    width: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    text-align: center;
+    padding: 30px 10px;
+    border-radius: 5px;
+}
+#select{
+    border: 2px solid tomato;
+    background-color: lightpink;
+}
+.other-amount{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    color: darkgray;
+}
+.our-plan{
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+}
+.flexible-card{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.width{
+    width: 300px;
+    text-align: center;
+    padding: 50px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px black;
+}
+#card-one{
+    background-color: lightpink;
+}
+#card-two{
+    background-color: lightblue;
+}
+#card-three{
+    background-color: lightsteelblue;
+}
+.flexible-container{
+    display: flex;
+    margin-top: 150px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px black;
+}
+.contribute{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 5px;
+}
+.update{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.email-area{
+    display: flex;
+    width: 400px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: lightpink;
+    padding: 70px 200px;
+    border-radius: 10px;
+}
+#email{
+    background-color: lightgray;
+    padding-left: 10px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: lightslategray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#subscribe{
+background-color: tomato;
+color: white;
+padding: 10px 25px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.footer{
+    background-color: darkgray;
+    margin-top: 100px;
+    text-align: center;
+    padding: 50px;
+}
+.color{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
